@@ -1,0 +1,22 @@
+{
+  "name": "cypress_innocv",
+  "version": "1.0.0",
+  "description": "Auto_innocv_page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caspablanca/cypress_innocv.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/caspablanca/cypress_innocv/issues"
+  },
+  "homepage": "https://github.com/caspablanca/cypress_innocv#readme",
+  "devDependencies": {
+    "cypress": "^13.3.1"
+  }
+}
